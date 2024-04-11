@@ -1,0 +1,7 @@
+-   Card Game to understand more about go language.
+-   GO is a static typed langugae with the type declared.
+-   data types:
+    -   bool
+    -   string
+    -   int
+    -   float64
