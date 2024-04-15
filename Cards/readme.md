@@ -14,4 +14,7 @@
     -   Files in the same package can freely call functions defined in other files.
 
 -   `slice` is similar to array but array has fixed size slice is flexible
+
     -   slice can have only one type of value
+
+-   While the code is technically valid and will compile, we don't ever reference a receiver value as 'this' or 'self'
